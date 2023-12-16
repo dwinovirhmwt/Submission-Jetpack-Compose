@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Submission Akhir Jetpack Compose</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="menu_profile">Profil</string>
+    <string name="empty_favorite">Daftar Favorit Kosong.</string>
+    <string name="search_text">Cari Anime</string>
+    <string name="about_me">Tentang saya</string>
+    <string name="back">Back</string>
+
+    <string name="favorite">Favorit</string>
+    <string name="delete_favorite">Hapus dari Favorit</string>
+    <string name="add_favorite">Tambah ke Favorit</string>
+    <string name="empty_data">Data Kosong</string>
+
+    <string name="title_home">Home</string>
+    <string name="email_author">kevinmalikfajar10@gmail.com</string>
+    <string name="name_author">Kevin Malik Fajar</string>
+</resources>
